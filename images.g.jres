@@ -1,0 +1,17 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAD//w8AAAAAAO/u/gAAAAAA8P//DwAAAM8MAO/+/wDw3c3w7u79AP+9++/u/vvw7u7u7+7+++/u7u7u/r/9797d3e7u3v3v/d/d/f7//O/d3dz9/r/9793dzf3v3v3w/e/N/fD/DwDf7c39AAAAAMDczQ8AAAAAAMDMAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAA8P8PAAAAAADw7v4AAADPDADw/wAA8N39////AAD/vev///sA8O7u7u++/QDv7u7u7779AO/e3f3v/v8A793f/e7//gDv3d/87u/+AO/d3e3+/v8A8N3t/f/f/QAA/+3f/b/9AAAA3N/9//8AAADA/P8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "turkey"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
